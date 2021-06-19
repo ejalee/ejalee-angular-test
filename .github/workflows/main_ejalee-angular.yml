@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'ejalee-angular'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_ca08d0dc23c742bd9a7dbc9e519c74be }}
-        package: ./dist/ejalee-angular-test
+        package: ./dist/APM
